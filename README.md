@@ -2,7 +2,7 @@
 ---
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://imgur.com/a/eoBvAbR">
+     <img width="600" heigth="600" src="readme-img.png">
 </p>
 
 ###  Primeiros Passos:
